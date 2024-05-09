@@ -145,14 +145,14 @@ const CelebretiesData = () => {
                       className="plus-minus"
                       onClick={() => openAccordian(i)}
                     >
-                      +
+                      v
                     </span>
                   ) : (
                     <span
                       className="plus-minus"
                       onClick={() => openAccordian(i)}
                     >
-                      -
+                      ^
                     </span>
                   )}
                 </div>
